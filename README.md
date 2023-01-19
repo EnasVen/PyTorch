@@ -5,5 +5,7 @@ learning records ...
 simple operations on PyTorch 
 
 ## NLP project
-- Huggingface API
-- Use Custom code and Trainer API on model training
+- Domain Adaption
+- Custom model for training
+- Custom callback and learning rate strategy
+- Fine-Tune model
